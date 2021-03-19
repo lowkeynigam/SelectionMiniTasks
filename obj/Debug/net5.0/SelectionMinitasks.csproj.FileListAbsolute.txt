@@ -1,0 +1,16 @@
+C:\Users\Origin PC\Projects\SelectionMinitasks\obj\Debug\net5.0\SelectionMinitasks.csprojAssemblyReference.cache
+C:\Users\Origin PC\Projects\SelectionMinitasks\obj\Debug\net5.0\SelectionMinitasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Origin PC\Projects\SelectionMinitasks\obj\Debug\net5.0\SelectionMinitasks.AssemblyInfoInputs.cache
+C:\Users\Origin PC\Projects\SelectionMinitasks\obj\Debug\net5.0\SelectionMinitasks.AssemblyInfo.cs
+C:\Users\Origin PC\Projects\SelectionMinitasks\obj\Debug\net5.0\SelectionMinitasks.csproj.CoreCompileInputs.cache
+C:\Users\Origin PC\Projects\SelectionMinitasks\bin\Debug\net5.0\SelectionMinitasks.exe
+C:\Users\Origin PC\Projects\SelectionMinitasks\bin\Debug\net5.0\SelectionMinitasks.deps.json
+C:\Users\Origin PC\Projects\SelectionMinitasks\bin\Debug\net5.0\SelectionMinitasks.runtimeconfig.json
+C:\Users\Origin PC\Projects\SelectionMinitasks\bin\Debug\net5.0\SelectionMinitasks.runtimeconfig.dev.json
+C:\Users\Origin PC\Projects\SelectionMinitasks\bin\Debug\net5.0\SelectionMinitasks.dll
+C:\Users\Origin PC\Projects\SelectionMinitasks\bin\Debug\net5.0\ref\SelectionMinitasks.dll
+C:\Users\Origin PC\Projects\SelectionMinitasks\bin\Debug\net5.0\SelectionMinitasks.pdb
+C:\Users\Origin PC\Projects\SelectionMinitasks\obj\Debug\net5.0\SelectionMinitasks.dll
+C:\Users\Origin PC\Projects\SelectionMinitasks\obj\Debug\net5.0\ref\SelectionMinitasks.dll
+C:\Users\Origin PC\Projects\SelectionMinitasks\obj\Debug\net5.0\SelectionMinitasks.pdb
+C:\Users\Origin PC\Projects\SelectionMinitasks\obj\Debug\net5.0\SelectionMinitasks.genruntimeconfig.cache
